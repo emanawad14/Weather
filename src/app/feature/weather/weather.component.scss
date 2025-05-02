@@ -63,3 +63,33 @@ form button
     font-weight: bold;
     font-size: 19px;
 }
+
+.weather-info
+{
+    margin-top: 30px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.weather-info h2
+{
+    color: #333;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.weather-info p
+{
+    margin: 8px 0 ;
+    color: #555;
+    font-size: 18px;
+}
+
+.emoji
+{
+    font-size: 2em ;
+    margin-left: 8px;
+}
