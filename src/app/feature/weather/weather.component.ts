@@ -114,7 +114,7 @@ export class WeatherComponent {
           },
           error:()=>
           {
-            this.errorMessage='city is not found or Api error'
+            this.errorMessage='city is not found or Api error';
             this.isLoading=false;
           }
         }
